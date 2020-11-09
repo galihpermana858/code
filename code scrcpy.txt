@@ -1,0 +1,7 @@
+standard
+INGAT INI BILA SCRCPY DI SIMPAN DI DISK C: F: d:
+	scrcpy -p(resolusi) -b(bitrate)m
+
+f:/cd mirror
+
+scrcpy -p1920 -b40m
